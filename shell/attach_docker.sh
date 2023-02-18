@@ -1,2 +1,1 @@
-docker exec -it -u $(id -u) \
-	750 /bin/bash
+docker exec -it -u 0 3dfbe9adb36d /bin/bash
